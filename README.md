@@ -1,16 +1,28 @@
-## Hi there 👋
+# us Cherepenin Dmitry Andreevich 😥😅
+> [!NOTE]
+_ 😲Hi there😝_\
+__ This is project for practical session 12 __\
+~~ 😡get out of here😡 ~~
 
-<!--
-**CherepeninaDima/CherepeninaDima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+|Это|Крутая|Табличка|
+|:-|:-:|-:|
+|1| 😋 | pleased |
+|2| 😐 | confused|
+|3| 😱 | frightened|
+## 💦	 Ссылки на прошлые работы
+[11 ПР](https://github.com/CherepeninaDima/megasupersite.git)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💪 Have a good day 🙌
+
+> [!TIP]
+**Пример работы с**
+
+```c
+#include <stdio.h>
+
+int main(){
+  printf("Hello, Ilya Aleksandrovich 😺 ");
+  return 0;
+}
+```
