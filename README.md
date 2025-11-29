@@ -1,8 +1,11 @@
+![Cool guy](https://raw.githubusercontent.com/CherepeninaDima/CherepeninaDima/main/images.jpg)
+
 # us Cherepenin Dmitry Andreevich 😥😅
+
 > [!NOTE]
-_ 😲Hi there😝_\
-__ This is project for practical session 12 __\
-~~ 😡get out of here😡 ~~
+_Hi there_\
+__👀This is project for practical session 12👀__\
+~~get out of here~~
 
 
 |Это|Крутая|Табличка|
